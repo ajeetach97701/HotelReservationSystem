@@ -40,8 +40,8 @@ public  class HotelReservationSystem{
                         break;
                     case 4:
 
-                        updatereservations.updateReservation();
                         System.out.println("Update Reservations");
+                        updatereservations.updateReservation();
                         break;
                     case 5:
                         System.out.println("Delete Reservations");
